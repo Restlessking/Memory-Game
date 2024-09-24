@@ -45,6 +45,7 @@ h3 {
 }
 #score {
   color: gold;
+  font-size: 25px;
 }
 .restart {
   position: absolute;
